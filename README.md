@@ -38,7 +38,7 @@ O desenvolvimento dos projetos será dividido em três fases sequenciais:
 
     * Integração dos módulos e funcionalidades principais (ex: autenticação, consumo de APIs, persistência de dados).
 
-    * Aplicação rigorosa de boas práticas de codificação, incluindo padrões de projeto e princípios SOLID.
+    * Aplicação rigorosa de boas práticas de codificação.
 
 * Entregável: Versão funcional da aplicação com as principais funcionalidades implementadas e integradas.
 
@@ -106,9 +106,9 @@ As equipes poderão escolher um dos seguintes temas para o desenvolvimento de se
 
 7. Serviço de Mensageria com Spring Boot e RabbitMQ:
 
-* Configurar e utilizar RabbitMQ para implementar filas de processamento assíncrono.
+    * Configurar e utilizar RabbitMQ para implementar filas de processamento assíncrono.
 
-* Desenvolver um caso prático que demonstre o uso da mensageria (ex: envio de notificações, processamento de tarefas em background).
+    * Desenvolver um caso prático que demonstre o uso da mensageria (ex: envio de notificações, processamento de tarefas em background).
 
 
 ### Avaliação
