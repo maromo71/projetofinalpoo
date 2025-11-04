@@ -1,5 +1,5 @@
 ## Proposta de Organização Geral para o Desenvolvimento de Projetos
-**Duração: 3 Semanas**
+**Duração: 2 Semanas**
 
 ### Objetivo Geral
 Este projeto visa aprofundar e consolidar o conhecimento em Programação Orientada a Objetos e explorar de forma prática as diversas funcionalidades do Spring Framework. As equipes desenvolverão aplicações que abordem conceitos essenciais como autenticação, APIs REST, consumo de APIs externas, gestão de sessões, arquitetura MVC, integração com banco de dados e mensageria. Cada equipe terá a oportunidade de focar em um tema específico, aplicando esses conceitos em um contexto de desenvolvimento real.
