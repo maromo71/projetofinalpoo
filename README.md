@@ -54,8 +54,6 @@ O desenvolvimento dos projetos será dividido em três fases rápidas, organizad
 
 #### Temas Sugeridos para Projetos
 
-(Esta seção permanece inalterada, mas as equipes devem focar em um escopo viável para duas semanas)
-
 As equipes poderão escolher um dos seguintes temas para o desenvolvimento de seus projetos, focando na aplicação prática dos conceitos do Spring Framework:
 
 * **Autenticação e Autorização com Spring Security:**
@@ -83,8 +81,6 @@ As equipes poderão escolher um dos seguintes temas para o desenvolvimento de se
 ---
 
 #### Avaliação
-
-(Critérios e pesos mantidos)
 
 A avaliação dos projetos será baseada nos seguintes critérios e pesos:
 
